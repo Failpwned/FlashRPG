@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+	<item id = "0001" name = "Stick" file = "stick.png" usable = "1">
+		<description value = "Just an ordinary stick, what did you expect?" />
+		<options>
+			<option name = "Examine" />
+			<option name = "Hit Myself" />
+		</options>
+	</item>
+</items>
